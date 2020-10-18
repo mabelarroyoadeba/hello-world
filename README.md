@@ -1,2 +1,2 @@
 # hello-world
-This is my first sepository
+This is my first repository
